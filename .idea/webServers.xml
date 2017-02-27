@@ -2,7 +2,7 @@
 <project version="4">
   <component name="WebServers">
     <option name="servers">
-      <webServer id="3f2304bc-d954-467d-be94-57b99e31acfd" name="GPU" url="http://10.51.51.89">
+      <webServer id="3f2304bc-d954-467d-be94-57b99e31acfd" name="GPU(10.51.51.89)" url="http://10.51.51.89">
         <fileTransfer host="10.51.51.89" port="22" rootFolder="/home/kpugdeet" accessType="SFTP">
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" />
